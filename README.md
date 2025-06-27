@@ -170,13 +170,7 @@ We welcome contributions! Please see our [Contributing Guide](docs/contributing.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📚 Documentation
 
-- [Installation Guide](docs/installation.md)
-- [Usage Instructions](docs/usage.md)
-- [API Reference](docs/api_reference.md)
-- [Model Architecture](docs/architecture.md)
-- [Training Guide](docs/training.md)
 
 ## 🔍 Examples
 
